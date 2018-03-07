@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: springCloudEurekaServer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.caicongyang
+Build-Jdk: 1.7.0_80
+Built-By: abc
+Created-By: Maven Integration for Eclipse
+Implementation-URL: https://projects.spring.io/spring-cloud/springClou
+ d/springCloudEurekaServer
+
